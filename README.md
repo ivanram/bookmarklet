@@ -1,2 +1,3 @@
 # bookmarklet
-Magic
+
+This bookmarklet will change your life.
